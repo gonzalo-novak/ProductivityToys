@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a6842f90-4e22-494f-ae52-6def3cd6c8bb"
+      }
+    },
+    "owner": "robertopinon"
   }
 }
